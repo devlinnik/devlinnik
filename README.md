@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @devlinnik
+- 👋  Hi, I’m Andrey Linnik
 - 👀  I am interested in programming, hunting, fishing and active recreation.
 - 💞️  I want to cooperate with people who want to make this world a better place!
 - 📫  How to reach me:
